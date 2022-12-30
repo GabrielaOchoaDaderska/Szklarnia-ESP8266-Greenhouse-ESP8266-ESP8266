@@ -1,6 +1,8 @@
 # Szklarnia-ESP8266-Greenhouse-ESP8266-ESP8266
 Projekt szklarni ESP8266 z stroną www stworzoną przez Wi-Fi. / Project of the ESP8266 greenhouse with a website created by Wi-Fi. /ESP8266 温室プロジェクト。Wi-Fi 経由で接続されたウェブサイト。
 
+*Read this in other languages: [Polish](README.md), [English]( README.eng.md)*
+
 ## Spis treści
 - [Opis idei/celu](#Opis-idei/celu)
 - [Schematy działania](#Schematy-działania)
