@@ -65,3 +65,6 @@ Projekt zostanie stworzony przy pomocy modułów. Zostaną do tego celu użyte :
 ---
 
 !!! KOD NIE ZAWIERA BIBLIOTEK I PRZYPISAŃ DO PINÓW !!!
+
+*Autorka: Gabriela Ochoa-Dąderska*
+
